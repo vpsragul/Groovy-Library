@@ -1,2 +1,0 @@
-
-operation.application.getDataMap("Datamap_Name").execute(true)
